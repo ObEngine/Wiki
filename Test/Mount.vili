@@ -1,0 +1,5 @@
+Include(Obe);
+
+Mount:
+    Test:Workspace("Test", 1)
+    Root:Path("", 0)
